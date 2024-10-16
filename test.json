@@ -1,0 +1,19 @@
+{
+    "foodShopname":"KFC สาม5",
+    "foodMeal":"1",
+    "foodImage":"iVBORw0KGgoAAAANSUhEUgAAAF8AAAAhCAYAAAC/ZHdEAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAS+SURBVGhD7Zg/bBpXHMe/dLTrqldcWwqWihmgqlnsWkqiUKSwAqNNF1ScDvXiDJFce2imdjC1kiFenMGYiA6FKBNxxliiVFElK+6ApWKp4CGuZMcOkRy80vfnBxwYH2DhvEq9j3Ti3nv3ON6X3/v+fneW8S+vVWCihA/o00QBpvgKMcVXiCm+QkzxFfL/Ej9yH6nlWWqox4x8hVxYfM/COtYXAtR6HwSwGFvHotdC7S7w3sV67C48XwwDVz6nTvV0Ln7kHpKPk0iJ4z481H2ZhJer92PH8jj1doH3B8T43Dk3+gcc8BwfAP/8RYPq6Ux85pVJ71usTIcwPcWOlRJck300eDlw4X1HCXk/djw4cmBigAY7gUV7bO4TbE5/Td/xB7RJGw3+N+jg9QLf7uGWCy9vJTATfUqtHsJtgkcrNeuc4uXKLSxl2r8R4X9e0E4NPXubmJ5fpYZazHc7CjG2HR6B5LnRiC7RUX80Ips8+fJr9Ak4/HOMkuMsok1jVarzeA4JW+j7eTko+nhylV0C0a9LuE2/QVD9vTy5UhfPVTG6t8gh+jGxq+X6agcrRfUpvZZ3muetUZ/+4i4xFN9z3YHDDea3W6cY9d+rC9TALIKuAh5MbeJwMkxiBGCz9kNziAvOgc2bLCE9vYlixQbf937RGx7TmLWEkN7rw0REv+D2hIMO5PncYzduk4ieYQ0fDo7ICxqQdqplKI+JYxOFz24iWXsWmIXbmhNrKw648W2PqztD8bMvChjyJ3HbMLmuIscX+/gmRllraDgAi3cczjf7wNh38pKWrCK9pSGYYvN0/2lip4SJuXP8ug0Nc62f4oYlAI/zLYpwIiwv0fEUS7dCWIhTU7CKxWevULFfpV3XuLZeY2w7mR8xwysNFvlGJOZl1BSpfYPtmNc7z1Gytlp0nWx0RkabPuvE74goTO9Ruxua5341DtebXaSPNLj19lRDWiK3FW6LrfZ189p6SWelZleMwOMqIfdoA9n8x2cWLT20yc8vRPs6YZTb5s5DtoP/xtDY2dcK4WUW0SfSVg6d42yn0AD62lhmb+i9+INOuI538UulIm1rzEkDksQ8jyLm58HLfsfCol0EATvN/Ik824VuOdAI83JuK0O72/j9Pdd9bcSX1YD0fBvz5/OSbp1+u01Em1iHWLStyS+51zMbq/lqM9IKhG9zYRqqjLOMspwkqiVq1xhg96Ug4P6ezWsYbZVHROSHxPNKZ9rPYinFnns+Yqfs9wW/MdbDCGPxIz648gny/H2k2ZOtL/UrotflcGtOUSrQqVj02XyRjT7ByxMZ/dWffniwIT49C1cBVmEJ3+bCZDQWmcymhsXwGYqiGmvt6eWjV3Qmi4cynV+YQR8rZZ3YebYvHjBDG/uwGxYVxhiLH98V5aOI/D0WRZSAc4Otnj6JkwKyv9VjKHtQojM9rNKI51C2s7KObXnHuxzSj+ScaoXFI7+c30ZWJNEngKvp1UDmJ6yJEpjvTGYvDVUL5xT5Fxv1aM68xiGdNiBsRyZdcfhHWiZeTr+1hLWpO0jEnyPvDCPp17Cdfkij3WM+4SrkEqodk04xxVeIKb5CTPEVYoqvEFN8hZjiK8QUXyGm+AoxxVcG8C+GGdhXtfM0ZAAAAABJRU5ErkJggg==",
+    "foodPay":"200",
+    "foodDate":"14 กุมภาพันธ์ 2567",
+    "foodProvince":"Bangkok",
+    "foodLat":"13",
+    "foodLng":"10",
+    "memId":"1"
+  }
+
+{
+  "memId":"1",
+  "memEmail":"",
+  "memUsername":"",
+  "memPassword":"",
+  "memAge":"",
+}
